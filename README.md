@@ -322,9 +322,9 @@ Authorization: Bearer <token_dari_login>
 - Ganti port di `config.env`: `PORT=3001`
 - Atau matikan aplikasi yang menggunakan port 3000
 
-## 📞 Support
+##  Support
 
-Untuk pertanyaan atau masalah:
+Untuk masalah:
 1. Cek API documentation: `http://localhost:3000/api/docs`
 2. Cek health status: `http://localhost:3000/health`
 3. Review log server untuk error detail
